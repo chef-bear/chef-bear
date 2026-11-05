@@ -37,4 +37,4 @@ Streams live crypto prices and joins them with CPI and jobs-report releases to m
 
 ---
 
-📫 kevinlz@umich.edu · [LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN)
+📫 kevinlz@umich.edu · [LinkedIn](www.linkedin.com/in/kevin-zhang129)
