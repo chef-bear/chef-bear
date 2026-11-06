@@ -8,23 +8,23 @@ I build database and data systems, and I measure whether AI agents can use them 
 
 ## Experience
 
-**Ford Credit @ Ford Motor Company** · Software Engineer Intern · Summer 2026 · *internal, no public code*
+🛻🚗**Ford Credit @ Ford Motor Company** · Software Engineer Intern · Summer 2026 · *internal, no public code*
 Sole engineer on a 54K+ fact knowledge graph powering the Digital Brain, an internal AI assistant. Diagnosing bad data and slow pipeline steps cut average response time by **35%** across 280+ test queries. Benchmarked **BigQuery vs. AllegroGraph** to pick the production database, and built the Terraform infrastructure to scale it to more departments.
 
-**University of Michigan School of Information** · Data Science Intern · Summer 2025
+📊📈**University of Michigan School of Information** · Data Science Intern · Summer 2025
 Launched the office's first **PostgreSQL** database, consolidating 10+ years of records for ~960 donors. A Python donor model improved outreach effectiveness by **15%**.
 
 ---
 
 ## Projects
 
-**AI Fraud Investigation: SQL vs. Graph Databases** · Python, PostgreSQL, Neo4j, Ollama, Docker
+💳📉**AI Fraud Investigation: SQL vs. Graph Databases** · Python, PostgreSQL, Neo4j, Ollama, Docker
 Benchmarks how well an AI agent traces money-laundering schemes across **1.3M bank transactions** in PostgreSQL vs. Neo4j. About 120 tasks per dataset size, every answer key verified three independent ways.
 
-**Execution-Based SQL Warnings for AI Data Agents** · Python, DuckDB, sqlglot
+😬😬**Execution-Based SQL Warnings for AI Data Agents** · Python, DuckDB, sqlglot
 Flags SQL that runs without errors but returns wrong numbers (for example, rows duplicated or dropped by a join) so the agent can fix it.
 
-**Real-Time Market & Economic Data Platform** *(in progress)* · Kafka, Spark, Iceberg, dbt, AWS S3
+💴💱💹**Real-Time Market & Economic Data Platform** *(in progress)* · Kafka, Spark, Iceberg, dbt, AWS S3
 Streams live crypto prices and joins them with CPI and jobs-report releases to measure how markets react in the seconds after. Built to recover from crashes without losing or double-counting data.
 
 ---
