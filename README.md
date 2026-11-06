@@ -1,8 +1,6 @@
 # Kevin Zhang
 
-**B.S. Computer Science (Data & Information)
- + Honors B.S. Economics <img width="360" height="270" alt="InvestStockMarketGIFbyMOODMAN" src="https://github.com/user-attachments/assets/9f60f0b5-8469-46c0-9ca7-877c05ca076a" />
-, University of Michigan** · new grad, May 2027 🎓
+**B.S. Computer Science (Data & Information) + Honors B.S. Economics, University of Michigan** · new grad, May 2027 🎓
 
 I build database and data systems, and I measure whether AI agents can use them correctly: a production knowledge graph at Ford, a SQL-vs-graph benchmark for AI fraud investigation, and a tool that catches SQL queries that run fine but return wrong answers.
 
