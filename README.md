@@ -2,7 +2,7 @@
 
 **B.S. Computer Science (Data & Information) + Honors B.S. Economics, University of Michigan** · new grad, May 2027 🎓
 
-I build database and data systems, and I measure whether AI agents can use them correctly: a production knowledge graph at Ford, a SQL-vs-graph benchmark for AI fraud investigation, and a tool that catches SQL queries that run fine but return wrong answers.
+Recently, I have been interested in developing data pipelines, AI engineering with agents, and learning more about different data storages such as SnowFlake❄️, Apache Iceburg🧊, and Databricks Delta Lake🌊
 
 ---
 
