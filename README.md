@@ -34,6 +34,7 @@ Streams live crypto prices and joins them with CPI and jobs-report releases to m
 **Languages:** Python, SQL, C++, C, Cypher, SPARQL, R
 
 **Databases:** PostgreSQL, Neo4j, DuckDB, BigQuery, Elasticsearch, AllegroGraph
+
 **Cloud & tools:** AWS (S3), Google Cloud, Docker/Podman, Terraform, Kafka, FastAPI, Git, Linux
 
 ---
