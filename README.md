@@ -9,7 +9,7 @@ Recently, I have been interested in developing data pipelines, AI engineering wi
 ## Experience
 
 <p align="center">
-  <img src="images.png" alt="Ford logo" width="400" />
+  <img src="[images.png](https://wikimedia.org)" alt="Ford logo" width="400" />
 </p>
 🛻🚗**Ford Credit @ Ford Motor Company** · Software Engineer Intern · Summer 2026 · *internal, no public code*
 Sole engineer on a 54K+ fact knowledge graph powering the Digital Brain, an internal AI assistant. Diagnosing bad data and slow pipeline steps cut average response time by **35%** across 280+ test queries. Benchmarked **BigQuery vs. AllegroGraph** to pick the production database, and built the Terraform infrastructure to scale it to more departments.
